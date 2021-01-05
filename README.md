@@ -1,1 +1,1 @@
-This repo contains code to comparisons in economics and ML. Tpyically in Econ, we concern ourselves with robustness of estimates and parameters. In ML, the main area of focus include space and time complexities and the speed of algorithms.
+This repo contains code to comparisons in economics and ML. Tpyically in Econ, we concern ourselves with robustness of estimates and parameters. In ML, the main areas of focus include space and time complexities and the speed of algorithms. With two competing concerns cutting across both disciplines, how do we reconcile them?
